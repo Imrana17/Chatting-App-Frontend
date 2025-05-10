@@ -1,4 +1,4 @@
-body {
+body{
     font-family: Arial, sans-serif;
     margin: 0;
     display: flex;
@@ -123,4 +123,5 @@ body {
 
   button:hover {
     background: #0056b3; /* Fixed incorrect hover color */
+    color: white;
   }
